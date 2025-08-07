@@ -1,3 +1,3 @@
-# Vaticy
+# Dalton
 
-Welcome to the Vaticy GitHub organization!
+Welcome to the Dalton GitHub organization!
